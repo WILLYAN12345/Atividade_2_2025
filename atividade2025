@@ -1,0 +1,8 @@
+let str1 = "opa";
+let str2 = "opa";
+
+if (str1 === str2) {
+    console.log("as strings são iguais.");
+} else {
+    console.log("as strings são diferentes.");
+}
